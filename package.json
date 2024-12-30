@@ -1,18 +1,18 @@
 {
-  "name": "@soreine/react-native-begin-background-task",
-  "version": "0.1.1",
-  "description": "React Native wrapper for beginBackgroundTask, iOS only",
-  "main": "index.js",
-  "repository": "https://github.com/soreine/react-native-begin-background-task",
-  "keywords": [
-    "react-native",
-    "ios",
-    "background",
-    "task"
-  ],
-  "author": "Alexander Sandberg <hi@alexandersandberg.com>",
-  "license": "MIT",
-  "peerDependencies": {
-    "react-native": "^0.64.0"
-  }
+    "name": "@soreine/react-native-begin-background-task",
+    "version": "0.1.1",
+    "description": "React Native wrapper for beginBackgroundTask, iOS only",
+    "main": "index.js",
+    "repository": "https://github.com/soreine/react-native-begin-background-task",
+    "keywords": [
+        "react-native",
+        "ios",
+        "background",
+        "task"
+    ],
+    "author": "Alexander Sandberg <hi@alexandersandberg.com>",
+    "license": "MIT",
+    "peerDependencies": {
+        "react-native": "^0.72.0"
+    }
 }
